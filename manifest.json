@@ -1,0 +1,7 @@
+{
+  "name": "Blanck",
+  "short_name": "Blanck",
+  "description": "Prueba Polymer de cero",
+  "start_url": "/",
+  "display": "standalone"
+}
